@@ -25,6 +25,15 @@
         height: 40px;
         font-size: 14px;
     }
+    &_active {
+        color: #fff;
+        background-color: $main-color;
+        border: none;
+    }
+    &:hover {
+        box-shadow: 3px 3px 20px $main-color;
+        border: none;
+    }
 }
 
 @media (max-width: 1200px) {
