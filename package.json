@@ -16,7 +16,10 @@
     "url": "https://github.com/AlenaInd/project/issues"
   },
   "homepage": "https://github.com/AlenaInd/project#readme",
-  "dependencies": {},
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "wow.js": "^1.2.2"
+  },
   "devDependencies": {
     "browser-sync": "^2.27.4",
     "gulp": "^4.0.2",
